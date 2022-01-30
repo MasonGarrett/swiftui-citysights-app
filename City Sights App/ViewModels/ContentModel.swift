@@ -95,7 +95,7 @@ class ContentModel: NSObject, CLLocationManagerDelegate, ObservableObject {
                     if error == nil {
                         print(response)
                     } else {
-                        print("error")
+                        print("error!")
                     }
                 }
                 
