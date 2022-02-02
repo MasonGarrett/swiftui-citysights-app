@@ -20,6 +20,7 @@
 		43467C4927A743A200D96E86 /* BusinessList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43467C4827A743A200D96E86 /* BusinessList.swift */; };
 		43467C4B27A7460D00D96E86 /* BusinessSectionHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43467C4A27A7460D00D96E86 /* BusinessSectionHeader.swift */; };
 		43467C4D27A746EE00D96E86 /* BusinessSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43467C4C27A746EE00D96E86 /* BusinessSection.swift */; };
+		43467C4F27AB011400D96E86 /* BusinessRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43467C4E27AB011400D96E86 /* BusinessRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		43467C4827A743A200D96E86 /* BusinessList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessList.swift; sourceTree = "<group>"; };
 		43467C4A27A7460D00D96E86 /* BusinessSectionHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessSectionHeader.swift; sourceTree = "<group>"; };
 		43467C4C27A746EE00D96E86 /* BusinessSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessSection.swift; sourceTree = "<group>"; };
+		43467C4E27AB011400D96E86 /* BusinessRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,6 +164,7 @@
 				43467C4827A743A200D96E86 /* BusinessList.swift */,
 				43467C4A27A7460D00D96E86 /* BusinessSectionHeader.swift */,
 				43467C4C27A746EE00D96E86 /* BusinessSection.swift */,
+				43467C4E27AB011400D96E86 /* BusinessRow.swift */,
 			);
 			path = List;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				430D796E27A70CD0000156E9 /* LaunchView.swift in Sources */,
+				43467C4F27AB011400D96E86 /* BusinessRow.swift in Sources */,
 				43467C4627A73F2C00D96E86 /* HomeView.swift in Sources */,
 				43467C3C27A7358F00D96E86 /* Business.swift in Sources */,
 				43467C4B27A7460D00D96E86 /* BusinessSectionHeader.swift in Sources */,
