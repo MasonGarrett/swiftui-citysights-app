@@ -26,6 +26,8 @@
 		43AB63F027B044F900F62A42 /* DirectionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43AB63EF27B044F900F62A42 /* DirectionsView.swift */; };
 		43AB63F227B0454800F62A42 /* BusinessTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43AB63F127B0454800F62A42 /* BusinessTitle.swift */; };
 		43AB63F427B0499700F62A42 /* DirectionsMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43AB63F327B0499700F62A42 /* DirectionsMap.swift */; };
+		43AB63F627B0541F00F62A42 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43AB63F527B0541F00F62A42 /* OnboardingView.swift */; };
+		43AB63F827B05B0500F62A42 /* LocationDeniedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43AB63F727B05B0500F62A42 /* LocationDeniedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +51,8 @@
 		43AB63EF27B044F900F62A42 /* DirectionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DirectionsView.swift; sourceTree = "<group>"; };
 		43AB63F127B0454800F62A42 /* BusinessTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessTitle.swift; sourceTree = "<group>"; };
 		43AB63F327B0499700F62A42 /* DirectionsMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DirectionsMap.swift; sourceTree = "<group>"; };
+		43AB63F527B0541F00F62A42 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		43AB63F727B05B0500F62A42 /* LocationDeniedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDeniedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +163,7 @@
 		43467C4327A73EFA00D96E86 /* Onboarding */ = {
 			isa = PBXGroup;
 			children = (
+				43AB63F527B0541F00F62A42 /* OnboardingView.swift */,
 			);
 			path = Onboarding;
 			sourceTree = "<group>";
@@ -166,6 +171,7 @@
 		43467C4427A73F0300D96E86 /* Denied */ = {
 			isa = PBXGroup;
 			children = (
+				43AB63F727B05B0500F62A42 /* LocationDeniedView.swift */,
 			);
 			path = Denied;
 			sourceTree = "<group>";
@@ -277,6 +283,7 @@
 				43467C4627A73F2C00D96E86 /* HomeView.swift in Sources */,
 				43467C3C27A7358F00D96E86 /* Business.swift in Sources */,
 				43467C4B27A7460D00D96E86 /* BusinessSectionHeader.swift in Sources */,
+				43AB63F827B05B0500F62A42 /* LocationDeniedView.swift in Sources */,
 				430D796C27A70CD0000156E9 /* CitySightsApp.swift in Sources */,
 				43AB63EB27B01DAB00F62A42 /* BusinessDetail.swift in Sources */,
 				43467C3E27A7383900D96E86 /* BusinessSearch.swift in Sources */,
@@ -286,6 +293,7 @@
 				43467C4D27A746EE00D96E86 /* BusinessSection.swift in Sources */,
 				430D797F27A710BC000156E9 /* ContentModel.swift in Sources */,
 				43467C4127A73B2600D96E86 /* Constants.swift in Sources */,
+				43AB63F627B0541F00F62A42 /* OnboardingView.swift in Sources */,
 				43AB63F427B0499700F62A42 /* DirectionsMap.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
